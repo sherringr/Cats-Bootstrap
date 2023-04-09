@@ -41,6 +41,20 @@ p
 		  background-size: cover;
 		  position: relative;
 }
+.GFG {
+            background-color: white;
+            font-family: georgia, Arial, sans-serif;
+            border: 2px solid black;
+            color: sandybrown;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+            text-decoration:none;
+        }
+
 
 .hero-text {
   text-align: center;
