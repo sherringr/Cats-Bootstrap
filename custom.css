@@ -1,0 +1,56 @@
+.navbar, footer {
+	background-image: url(seamless-animal.jpg);
+}
+
+body
+{background-color: #FFEEDE;
+}
+
+.nav-link, .navbar-brand
+{
+	color:black;
+	font-family: Optima, Arial, sans-serif;
+	font-size: 20px;
+}
+h2
+{
+	font-family: Optima, Arial, sans-serif;
+	background-color: #FFE5CB;
+	font-size: 24px;
+}
+#about p
+{
+	font-family: georgina, Arial, sans-serif;
+	font-size: 15px;
+}
+
+p
+{
+	font-family: Georgia, Arial, sans-serif;
+	font-size: 5px;
+}
+
+
+.hero-image {
+		
+		  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("cats.jpg");
+		  height: 100%;
+		  padding-top: 400px;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  background-size: cover;
+		  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.carousel-item img {
+    width: 650px;
+    height: 450px;
