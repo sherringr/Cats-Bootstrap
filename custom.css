@@ -1,5 +1,5 @@
 .navbar, footer {
-	background-image: url(seamless-animal.jpg);
+	background-image: url(images1/seamless-animal.jpg);
 }
 
 body
@@ -33,7 +33,7 @@ p
 
 .hero-image {
 		
-		  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("cats.jpg");
+		  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images1/cats.jpg");
 		  height: 100%;
 		  padding-top: 400px;
 		  background-position: center;
